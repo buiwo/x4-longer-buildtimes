@@ -1,4 +1,4 @@
-# X4: Foundations Long Build Times Mod
+# X4: Foundations Longer Ship Build Times Mod
 This mods extends the build times for all ships by a significant amount.
 
 ## Base hull build times
